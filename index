@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assessment</title>
+    <link rel="stylesheet"  href="style.css"/>
+</head>
+<body>
+    
+    <section id="container">
+        <img scr="image/img.jpg" class="image" alt="my photo">
+        <h1>Tharani Rathnasamy</h1>
+        <a href="https://www.linkedin.com/in/tharani-r-830a1765/">
+            https://www.linkedin.com/in/tharani-r-830a1765/</a>
+        <section id="aboutme">
+            <h1>About Me</h1>
+            <p data-content="aboutme">
+                Hi, I am an Engineer so basically I'm interested on experimenting things 
+                and I am always excit on Mathematics,
+                puzzle,3d view pencile sketches and computer softwares and hardware and so on.
+                I enjoy on learning new things and teaching others about what I'm really excited on. 
+            </p>
+        </section>
+        <section id="education">
+            <h1>Education</h1>
+            <ul data-content="education">
+               <li><section>
+                   <ul><li>
+                       <div class="label">College:</div>
+                       <div class="cotent">Mahendra Engineering college, Nammakkal under Anna University , Chennai</div>
+                    </li>
+                    <li>
+                        <div class="label">Program:</div>
+                        <div class="cotent">Bachelor of Engineering in Aeronautical</div>
+                    </li>
+                    <li>
+                        <div class="label">Date Attended:</div>
+                        <div class="cotent">2010-2014</div>
+                    </li>
+                    <li>
+                        <div class="label">Achievement:</div>
+                        <div class="cotent">6.8 CGPA</div>
+                    </li>
+                    
+                </ul>
+               </section></li>
+               <li><section>
+                <ul><li>
+                    <div class="label">School:</div>
+                    <div class="cotent">Sri Vidyaa Mandir HR. Sr. School</div>
+                 </li>
+                 <li>
+                     <div class="label">Program:</div>
+                     <div class="cotent">HSC(Higher secondary)</div>
+                 </li>
+                 <li>
+                     <div class="label">Date Attended:</div>
+                     <div class="cotent">2010</div>
+                 </li>
+                 <li>
+                     <div class="label">Achievement:</div>
+                     <div class="cotent">70.5% </div>
+                 </li>
+                 
+             </ul>
+            </section></li>
+            <li><section>
+                <ul><li>
+                    <div class="label">School:</div>
+                    <div class="cotent">Government Girls School, Salem, Tamilnadu</div>
+                 </li>
+                 <li>
+                     <div class="label">Program:</div>
+                     <div class="cotent">SSLC under Tamilnadu Sate Board</div>
+                 </li>
+                 <li>
+                     <div class="label">Date Attended:</div>
+                     <div class="cotent">2008</div>
+                 </li>
+                 <li>
+                     <div class="label">Achievement:</div>
+                     <div class="cotent">65.4% </div>
+                 </li>
+                 
+             </ul>
+            </section></li>
+            </ul>
+        </section>
+        <section id="Project">
+            <h1>Project</h1>
+            <p data-content="Project">
+                Design of Helicopter Rotor with Stator units with the help of CATIA software and execution of its Analysis. 
+            </p>
+        </section>
+        <section id="Experience">
+            <h1>Experience</h1>
+            <ul data-content="Experience">
+                <li><div class="Organisation">Sharavan Aero Technology Pvt.Ltd. chennai-32 </div>
+                     <div class="cotent"> Junior Engineer Trainee -Quality Assurance( 16/06/2014 to 20/05/2015)</div>
+                </li>
+               <p>Approved by U.S DOT (Approval No. H697) (The company is facilitated with Aircraft Safety and Emergency Component Maintenance which takes care of General Aviation to Commercial Airlines)Work scope includes: Visual inspection, Cleaning Hydrostatic Testing, Ultrasonic Testing, Halon1301 Recovery and Refilling, Assembling and Disassembling of cylinders as per DOT guidelines.</p>
+            </ul>
+        </section>
+
+    </section>
+</body>
